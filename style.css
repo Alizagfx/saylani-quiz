@@ -1,0 +1,28 @@
+.navbar-act{
+    background-color: white;
+}
+.heading{
+    font-size: 45px;
+    color: rgb(39, 39, 165);
+}
+.pera{
+    font-size: 25px;
+}
+.log-btn{
+    background-color: blue;
+    border-radius: 30px;
+    border: none;
+    padding: 15px;
+    color: white;
+}
+.btn-option{
+    border: none;
+    font-size: 25px;
+    text-decoration: none;
+    background-color:gray ;
+    color:black;
+}
+.btn-option:hover{
+    background: white;
+    
+}
